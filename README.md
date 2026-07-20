@@ -7,7 +7,7 @@ A wirelessly controlled 4-motor robotic car built on an Arduino UNO, driven over
 ![Comm](https://img.shields.io/badge/link-Bluetooth%20HC--05-0082FC)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**Authors:** Arjun Hirani ([@ArjunHirani](https://github.com/ArjunHirani)), Harshil Manasara ([@HarshilManasara](https://github.com/HarshilManasara)) — B.Tech ECE, Nirma University (2024–2028)
+**Authors:**  Harshil Manasara ([@HarshilManasara](https://github.com/HarshilManasara)),Arjun Hirani ([@ArjunHirani](https://github.com/ArjunHirani)) — B.Tech ECE, Nirma University (2024–2028)
 
 ---
 
